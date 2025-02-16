@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
+import "../styles/createevent.css";
 
 export default function CreateEvent() {
   const [name, setName] = useState("");

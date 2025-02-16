@@ -1,0 +1,61 @@
+.event-details-container {
+    background-color: #121212;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    width: 400px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .register-btn {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .register-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .register-form {
+    background-color: #1e1e1e;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 15px;
+  }
+  
+  .register-form input {
+    width: 90%;
+    padding: 8px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    color: white;
+  }
+  
+  .submit-btn {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #28a745;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .submit-btn:hover {
+    background-color: #218838;
+  }
+  
+  .register-message {
+    color: #4caf50;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  
